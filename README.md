@@ -10,4 +10,6 @@ Where answers.txt contains the answers from previous challenges, each on a new l
 
 ##Part2
 
-Placeholder
+A set of challenges to teach more advance reverse engineering  
+
+Unlike part 1 you cannot use a text file to keep track of your answers since some of the answers cannot be entered as text.
